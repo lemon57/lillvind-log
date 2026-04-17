@@ -1,0 +1,12 @@
+title: Lillvind Log
+email: sail@lillvind.io
+description: >-
+  A personal log and notebook.
+baseurl: ""
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
