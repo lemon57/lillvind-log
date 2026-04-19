@@ -29,3 +29,6 @@ No rain. For an April day working on deck, that counts as good weather. We'll ta
 ## Result
 
 The sprayhood is on. It fits properly, it looks good, and it's reliable. That's one less thing to worry about for the season ahead.
+
+![Lillvind with the sprayhood fitted and in place]({{ '/assets/images/sprayhood_in_place_2026.jpg' | relative_url }})
+*Sprayhood fitted and seated — the boat with her proper cockpit cover back on.*
