@@ -8,6 +8,9 @@ tags: [crossing, oresund, copenhagen, sundby, engine, may]
 
 May 1st. On the boat at 5:30, cast off at 6:30. Quiet harbour, empty water. A clean start.
 
+![Route map — Malmö to Copenhagen Sundby harbour]({{ '/assets/images/trip-swe-kph-route-map-2026-05-01.jpg' | relative_url }})
+*The route: out from Malmö, past Peberholm, under the bridge, south to Sundby harbour.*
+
 ## Glass-Flat Sea, Engine All the Way
 
 The forecast said northwest wind up to 13 km/h. In practice — nothing. Flat calm. Not a ripple. Not sailing weather, but honestly? Perfect for everything else. The air was around +12°C when we set off and climbed toward +20°C by midday. Sunshine, no clouds, warm on the face.
@@ -44,4 +47,4 @@ One way: roughly 3.5 hours. Well spent.
 If you like boats, the sea, or just being outside on a good day — this crossing is worth doing. Highly recommended.
 
 ---
-*More photos from the crossing in the [gallery](/gallery).*
+*More photos from the crossing in the [gallery](https://lemon57.github.io/lillvind-log/gallery/).*
